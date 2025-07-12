@@ -1,6 +1,6 @@
 # README: Iris Flower Classification
 
-#Author: Saikumar Penke
+# Author: Saikumar Penke
 
 # Batch: July
 
@@ -8,11 +8,11 @@
 
 # Aim
 
-#The aim of this project is to develop a model that can classify iris flowers into different species based on their sepal and petal measurements.
+# The aim of this project is to develop a model that can classify iris flowers into different species based on their sepal and petal measurements.
 
-#Libraries Used
+# Libraries Used
 
-#The following important libraries were used for this project:
+# The following important libraries were used for this project:
 
 •	numpy
 
@@ -27,6 +27,7 @@
 # Dataset
 
 The iris dataset was loaded using seaborn's load_dataset function, which contains information about iris flowers, including sepal length, sepal width, petal length, petal width, and species.
+
 # Data Exploration and Preprocessing
 
 1.	The dataset was loaded using seaborn's load_dataset function as a DataFrame, and its first 5 rows were displayed using df.head().
