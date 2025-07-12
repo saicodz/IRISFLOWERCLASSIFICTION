@@ -51,7 +51,7 @@ The iris dataset was loaded using seaborn's load_dataset function, which contain
 
 3.	A plot of K values against SSE was created using matplotlib.pyplot to identify the "elbow point," which indicates the optimal number of clusters.
 
-#Applying K-Means Algorithm
+# Applying K-Means Algorithm
 
 1.	The KMeans algorithm was applied to the dataset with the optimal number of clusters (K=3) obtained from the Elbow Technique.
 
